@@ -13,7 +13,7 @@ const Navbar = () => {
 
       <Link className="logo font-bold text-lg flex justify-center items-center" href={"/"}>
         <img className='invertImg' src="tea.gif" width={44} alt="" />
-        <span className='text-xl md:text-base my-3 md:my-0'>Get Me a Chai!</span>
+        <span className='text-xl md:text-base my-3 md:my-0'>Get Me a Coffee!</span>
       </Link>
 
       {/* <ul className='flex justify-between gap-4'>
